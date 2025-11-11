@@ -166,7 +166,7 @@ module.exports = conexao;
 
 ## 🧪 Testando a API
 
-Use o **Postman** ou **Insomnia** com as rotas listadas acima.  
+Use o **Postman** com as rotas listadas acima.  
 Certifique-se de incluir o token JWT no cabeçalho de autorização.
 
 ---
@@ -195,6 +195,6 @@ Certifique-se de incluir o token JWT no cabeçalho de autorização.
 
 ## 👨‍🎓 Autor
 
-**Felipe Barcelos**  
+**Felipe Barcelos Rafaeli Falk**  
 Projeto desenvolvido para a disciplina de Desenvolvimento Web - Avaliação N2.  
 📧 Contato: *lipe91235995@gmail.com*
